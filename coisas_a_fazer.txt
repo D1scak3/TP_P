@@ -1,0 +1,14 @@
+carregamento de ficheiros
+	-local
+	-pessoas
+	-mostra local
+	-mostra pessoas
+	-inicia simulação
+	-sair do simulador
+
+opções de simulação
+	-mostra info
+	-avança iteração
+	-add doente
+	-move doente(s)
+	-terminar simulação

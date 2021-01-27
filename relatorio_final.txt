@@ -1,0 +1,73 @@
+-------------------PESSOAS-------------------
+Nome: PauloPires1	 Idade: 23	 Estado: S
+Esta na sala com ID: 2
+
+Nome: SofiaA	 Idade: 23	 Estado: S
+Esta na sala com ID: 2
+
+Nome: Tomas111	 Idade: 12	 Estado: I
+Esta na sala com ID: 3
+
+Nome: PauloPires2	 Idade: 67	 Estado: D	 Dias doente: 10
+Esta na sala com ID: 2
+
+Nome: MarcoMarquesAAA	 Idade: 40	 Estado: I
+Esta na sala com ID: 1
+
+Nome: Zulmira2A	 Idade: 17	 Estado: S
+Esta na sala com ID: 3
+
+Nome: Olivia1	 Idade: 12	 Estado: S
+Esta na sala com ID: 3
+
+Nome: SamuelSimoes	 Idade: 56	 Estado: D	 Dias doente: 1
+Esta na sala com ID: 3
+
+Nome: SandraS	 Idade: 56	 Estado: D	 Dias doente: 1
+Esta na sala com ID: 2
+
+Nome: HugoA	 Idade: 20	 Estado: D	 Dias doente: 3
+Esta na sala com ID: 3
+
+Nome: HugoB	 Idade: 25	 Estado: D	 Dias doente: 10
+Esta na sala com ID: 1
+
+Nome: HugoC	 Idade: 14	 Estado: D	 Dias doente: 5
+Esta na sala com ID: 3
+
+Nome: PauloAlves123	 Idade: 34	 Estado: D	 Dias doente: 4
+Esta na sala com ID: 4
+
+Nome: Carlos1	 Idade: 20	 Estado: D	 Dias doente: 3
+Esta na sala com ID: 4
+
+Nome: CarlaCardoso	 Idade: 34	 Estado: D	 Dias doente: 7
+Esta na sala com ID: 3
+
+Nome: SandraMotaA1	 Idade: 24	 Estado: S
+Esta na sala com ID: 4
+
+Nome: PedroPedra	 Idade: 27	 Estado: S
+Esta na sala com ID: 2
+
+Nome: DianaD	 Idade: 89	 Estado: S
+Esta na sala com ID: 4
+
+Nome: TobiasF	 Idade: 98	 Estado: S
+Esta na sala com ID: 1
+
+Nome: LeonardoL	 Idade: 10	 Estado: S
+Esta na sala com ID: 2
+
+-------------------LOCAIS-------------------
+ID: 1	 Capacidade maxima: 50	 Pessoas presentes na sala: 3
+ID: 2	 Capacidade maxima: 50	 Pessoas presentes na sala: 6
+ID: 3	 Capacidade maxima: 50	 Pessoas presentes na sala: 7
+ID: 4	 Capacidade maxima: 50	 Pessoas presentes na sala: 4
+
+-------------------PERCENTAGENS-------------------
+Saudaveis: 0.450000	 Doentes: 0.450000	 Imunes: 0.100000
+Na sala com ID<1>, a media da idade das pessoas doentes e: 25.000000.
+Na sala com ID<2>, a media da idade das pessoas doentes e: 61.500000.
+Na sala com ID<3>, a media da idade das pessoas doentes e: 31.000000.
+Na sala com ID<4>, a media da idade das pessoas doentes e: 27.000000.
